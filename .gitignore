@@ -1,4 +1,8 @@
-.venv/
+# Virtual Environment (виправлено з .venv/ на venv/)
+venv/
+
+# IDE configuration (додано)
+.idea/
 
 __pycache__/
 *.py[cod]
